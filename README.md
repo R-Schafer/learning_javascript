@@ -1,2 +1,3 @@
 # learning_javascript
-JavaScript practice problems. 
+
+JavaScript practice problems.

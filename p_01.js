@@ -1,12 +1,12 @@
 // adding the numbers up to a single number
 
 function addNums(num) {
-  let sum = num
+  let sum = num;
   while (num > 0) {
-    num = num - 1
-    sum += num
+    num = num - 1;
+    sum += num;
   }
-  return sum
+  return sum;
 }
 
-console.log(addNums(5))
+console.log(addNums(5));

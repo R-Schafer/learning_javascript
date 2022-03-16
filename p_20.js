@@ -2,8 +2,8 @@
 
 function sumNums(numbers) {
   return numbers.reduce((total, current) => {
-    return total + current
-  })
+    return total + current;
+  });
 }
 
-console.log(sumNums([10, 20, 30]))
+console.log(sumNums([10, 20, 30]));

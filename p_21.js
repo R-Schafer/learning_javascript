@@ -2,8 +2,8 @@
 
 function getNum(numbers) {
   return numbers.reduce((total, current) => {
-    return total * current
-  })
+    return total * current;
+  });
 }
 
-console.log(getNum([5, 2, 10]))
+console.log(getNum([5, 2, 10]));
